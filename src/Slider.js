@@ -155,8 +155,8 @@ export class Slider extends PureComponent<SliderProps, SliderState> {
         minimumTrackTintColor: '#3f3f3f',
         minimumValue: 0,
         step: 0,
-        thumbTintColor: '#343434',
-        thumbTouchSize: {width: 40, height: 40},
+        thumbTintColor: '#fc0c06',
+        thumbTouchSize: {width: 50, height: 50},
         trackClickable: true,
         value: 0,
     };
